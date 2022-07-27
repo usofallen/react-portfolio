@@ -13,8 +13,8 @@
 
         img {
             display: block;
-            margin: 8px auto;
-            width: 24px;
+            margin: 12px auto;
+            width: 48px;
             height: auto;
 
             &.sub-logo{
@@ -46,7 +46,7 @@
             }
 
             &:hover {
-                color: #ffd700;
+                color: #74dff7;
 
                 svg {
                     opacity: 0;
@@ -72,6 +72,7 @@
 
             &:first-child {
                 &:after{
+                    font-weight: bold;
                     content: 'HOME';
                 }
             }
@@ -79,19 +80,21 @@
         
         a.about-link {
             &:after {
+                font-weight: bold;
                 content: 'ABOUT';
             }
         }
 
         a.contact-link {
             &:after {
+                font-weight: bold;
                 content: 'CONTACT';
             }
         }
 
         a.active {
             svg {
-                color: #ffd700;
+                color: #74dff7;
             }
         }
     }
@@ -117,7 +120,7 @@
 
 
                 &:hover svg {
-                    color: #ffd700;
+                    color: #74dff7;
                 }
             }
         }
