@@ -2,6 +2,7 @@ import "./index.scss";
 import LogoAA from "../../../assets/images/logo-aa.png";
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
+import { Loader } from "react-loaders";
 import DrawSVGPlugin from "gsap/DrawSVGPlugin";
 
 const Logo = () => {

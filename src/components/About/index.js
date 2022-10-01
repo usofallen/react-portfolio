@@ -33,18 +33,20 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I'm Dylan, and I love to build things. I'm a college student
+            studying CS and Business Strategy. I'm an aspiring product manager
+            with a passion for web development and mobile development. I'm
+            currently founding my own company, working, and studying at the same
+            time! I'd love to connect and chat!
           </p>
           <p align="LEFT">
             I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            improving my trade one problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            I love to ski and mountain bike, and I am the biggest fan of
+            watching formula 1 racing. I also love to travel and explore new
+            places!
           </p>
         </div>
 
